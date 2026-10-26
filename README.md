@@ -1,4 +1,4 @@
-# Hi there, I'm Nguyễn Hữu Trí 👋
+# Hi there, I'm Tri Nguyen 👋
 
 ### 👨‍💻 Backend & AI-Integrated Software Engineer
 
