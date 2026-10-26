@@ -1,47 +1,43 @@
 # Hi there, I'm Nguyễn Hữu Trí 👋
 
-### 👨‍💻 Software Developer | Backend & Microservices 
+### 👨‍💻 Backend & AI-Integrated Software Engineer
 
-I am a Software Developer specializing in building robust backend microservices, optimizing database performance, and designing clean, scalable architectures. I enjoy solving complex technical challenges, from concurrency mechanisms to heavy data retrieval.
-
----
-
-### 🚀 About Me
-
-- 🔭 Currently working on developing efficient backend systems and exploring **Retrieval-Augmented Generation (RAG)** systems.
-- 🌱 Deep diving into **Golang concurrency, ClickHouse OLAP architecture, and AWS Cloud Security**.
-- 🏗️ Passionate about **Clean Architecture** and high-performance database design.
-- ⚡ Fun fact: I spend my free time exploring database indexing and optimizing query execution plans.
+I am a Software Engineer bridging the gap between rigorous system design and AI-accelerated development. I leverage AI toolsets not to bypass engineering principles, but to rapidly build scalable products while strictly enforcing **Clean Architecture** and maintainable code boundaries. 
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 About Me & Engineering Philosophy
 
-**Languages:**  
+- 🧠 **AI-Driven, Architecture-First:** I build products utilizing the **BMAD framework**, orchestrating AI tools (Cursor, Claude Code, Superpowers plugins) to generate logic while I control the system design, avoiding the pitfalls of "vibe coding."
+- 🔭 **Current Focus:** Engineering high-performance backend microservices with **Go** and **Ruby**, utilizing goroutine concurrency management and strict Test-Driven Development (TDD).
+- 🌱 **Deep Diving:** ClickHouse OLAP architectures, PostgreSQL optimization, and seamless CI/CD deployments using Jenkins and Capistrano.
+- ⚡ **Philosophy:** AI writes the boilerplate; I architect the system. Predictable, scalable, and meticulously structured code is the only acceptable output.
+
+---
+
+### 🛠️ Tech Stack & AI Workflows
+
+**AI Tooling & Methodologies:**  
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![BMAD Framework](https://img.shields.io/badge/BMAD_Framework-4CAF50?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-1E88E5?style=for-the-badge)
+
+**Backend & Microservices:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 **Databases & Caching:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-**Cloud & Infrastructure:**  
+**Infrastructure & Deployment:**  
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Tools & Development:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nguyenhuutri1620vn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhuutri1620vn&layout=compact&langs_count=7&theme=radical"/>
-</div>
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
 
@@ -51,7 +47,7 @@ I am a Software Developer specializing in building robust backend microservices,
   <a href="mailto:nguyenhuutri1620vn@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tri-nguyen-huu/)">
+  <a href="https://www.linkedin.com/in/tri-nguyen-huu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
