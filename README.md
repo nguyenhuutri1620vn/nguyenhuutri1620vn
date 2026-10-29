@@ -1,4 +1,5 @@
 # Hi there, I'm Tri Nguyen 👋
+Here is my portfolio: https://tri-nguyen-portfolio.nguyenhuutri1620vn.workers.dev/en/
 
 ### 👨‍💻 Backend & AI-Integrated Software Engineer
 
