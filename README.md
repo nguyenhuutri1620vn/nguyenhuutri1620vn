@@ -1,7 +1,7 @@
 # Hi there, I'm Tri Nguyen 👋
 Here is my portfolio: https://tri-nguyen-portfolio.nguyenhuutri1620vn.workers.dev/en/
 
-### 👨‍💻 Backend & AI-Integrated Software Engineer
+### 👨‍💻 Software Engineer
 
 I am a Software Engineer bridging the gap between rigorous system design and AI-accelerated development. I leverage AI toolsets not to bypass engineering principles, but to rapidly build scalable products while strictly enforcing **Clean Architecture** and maintainable code boundaries. 
 
